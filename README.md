@@ -34,5 +34,5 @@ See [Activity5_Notes.md](Activity5_Notes.md) for the issues I found and the test
 
 ## Files
 
-- `Activity5.py` — the repaired ticket booth program
-- `Activity5_Notes.md` — my notes about the bugs and tests
+- `Activity5.py` - the repaired ticket booth program
+- `Activity5_Notes.md` - my notes about the bugs and tests
